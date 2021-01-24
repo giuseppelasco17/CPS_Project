@@ -1,0 +1,4 @@
+Per il corretto funzionamento del notebook, è necessario installare le seguenti librerie:
+* pandas
+* numpy
+* matplotlib
